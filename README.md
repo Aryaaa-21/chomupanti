@@ -1,4 +1,6 @@
 🕹️ Dare Machine: Decentralized Truth/Dare DApp
+![Uploading image.png…]()
+
 
 🌟 Project Description
 Welcome to the Dare Machine, a fun and decentralized application (DApp) built using Solidity on the Celo blockchain. This project serves as a beginner-friendly example of how smart contracts can manage shared, interactive content without needing a central server. It's a simple, community-driven version of the classic game, Truth or Dare!
@@ -23,5 +25,4 @@ Below is the complete, self-contained Solidity code for the Dare Machine contrac
 🔗 Deployed Smart Contract Link
 
 You can view the deployed contract and all its transactions on the Celo Sepolia block explorer:
-
 https://celo-sepolia.blockscout.com/tx/0x8cc78fde41607b6c7caf0f188a3664ceb91a4ba567eed628d924a8c7a6843d34
