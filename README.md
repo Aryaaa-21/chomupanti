@@ -1,5 +1,6 @@
 🕹️ Dare Machine: Decentralized Truth/Dare DApp
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/797885e8-6764-4fad-a9f7-fb1b43963c45" />
+
 
 
 🌟 Project Description
